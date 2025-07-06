@@ -1,7 +1,7 @@
 # OrangeHRM Automation Testing Project
 
 ## Overview
-Automated UI testing for [https://www.guvi.in](https://www.guvi.in) using Selenium and Pytest in a Page Object Model (POM) structure.
+Automated UI testing for [https://opensource-demo.orangehrmlive.com](https://opensource-demo.orangehrmlive.com) using Selenium and Pytest in a Page Object Model (POM) structure.
 
 ## Objective
 Automate login, logout, user management, leave and claim operations using:
