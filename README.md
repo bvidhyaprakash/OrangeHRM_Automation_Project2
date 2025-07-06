@@ -5,18 +5,11 @@ Automated UI testing for [https://opensource-demo.orangehrmlive.com](https://ope
 
 ## Objective
 Automate login, logout, user management, leave and claim operations using:
-
-Selenium with Python
-
-Page Object Model (POM)
-
-Pytest Framework
-
-Data-driven testing (Excel/CSV)
-
-Explicit waits
-
-
+- Selenium with Python 
+- Page Object Model (POM)
+- Pytest Framework 
+- Data-driven testing (Excel)
+- Explicit waits
 
 ## Technologies
 - Python
